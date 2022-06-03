@@ -5,6 +5,9 @@
 ## Description 💬
 This is a web based app that allows users to catergorize their notes. User can organize their notes by category. Notes can be searched and edited or removed. 
 
+[Online Demo](https://zermeno94.github.io/web-note-app/)
+
+![screencapture-zermeno94-github-io-web-note-app-2022-06-02-19_08_50](https://user-images.githubusercontent.com/87839888/171760309-4a7d48bc-0ece-4850-8b48-b3249931ae8b.png)
 
 
 ## MIT License 📍
